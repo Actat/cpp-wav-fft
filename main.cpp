@@ -1,6 +1,4 @@
 #include <iostream>
-#include <fstream>
-#include <vector>
 #include "wav.hpp"
 
 int main(int argc, char *argv[])
